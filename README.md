@@ -91,6 +91,8 @@ Interested in data analysis, social research, and public health
 ## 作成者
 
 Risa Kuriyama
+
 カリフォルニア大学サンディエゴ校 経済学部
+
 データ分析・社会問題・公衆衛生に関心あり
 
